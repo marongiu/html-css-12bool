@@ -1,10 +1,20 @@
-.bg {
+.bg-pink {
   background: pink;
 }
 
+.bg-salmon {
+  background: #f07f80;
+}
+/* Centramento testo */
 .text-center {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
 }

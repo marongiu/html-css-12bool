@@ -46,7 +46,8 @@
 }
 
 .col-6 {
-  width: calc(100%/12 *6)
+  width: calc(100%/12 *6);
+  position: relative;
 }
 
 .col-7 {
@@ -54,7 +55,8 @@
 }
 
 .col-8 {
-  width: calc(100%/12 *8)
+  width: calc(100%/12 *8);
+  position: relative;
 }
 
 .col-9 {

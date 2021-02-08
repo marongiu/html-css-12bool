@@ -18,3 +18,13 @@
   display: table;
   clear: both;
 }
+
+.mt {
+  margin: 10px;
+  height: 230px;
+}
+
+.border {
+  border: 1px solid #ffff;
+  height: 230px;
+}
